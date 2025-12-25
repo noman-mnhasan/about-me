@@ -32,10 +32,10 @@ const navBarHtmlCode = `
     <nav >
         <ul id="nav-list" class="container">
             <li>
-                <a href="/index.html">RESUME</a>
+                <a href="./index.html">RESUME</a>
             </li>
             <li>
-                <a href="/portfolio.html">PORTFOLIO</a>
+                <a href="./portfolio.html">PORTFOLIO</a>
             </li>
         </ul>
     </nav>
