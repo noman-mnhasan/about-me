@@ -1,0 +1,55 @@
+
+<div id="portfolio-description-multiInterfaceDyMFoam" class="description text-justified">
+    <h2>Description</h2>
+    <hr>
+    <div id="simulation-multiInterfaceDyMFoam-about" class="description text-justified">
+        <b>multiInterfaceDyMFoam</b> : An OpenFOAM solver for dynamic/adaptive mesh refinement (AMR) at the interface for N-phase simulation.
+        <br>
+        <br>
+        A custom OpenFOAM solver, based on multiphaseInterFoam. This solver enables tracking and implementation of automated/dynamic mesh refinement (AMR) of all interfaces for a n-phase simulation with dynamicRefineFvMesh (./constant/dynamicMeshDict).
+    </div>
+    <br>
+    <br>
+    <h2>Motivation</h2>
+    <hr>
+    <div id="simulation-multiInterfaceDyMFoam-motivation" class="description text-justified">
+        The <b>multiphaseInterFoam</b> solver extends the capability of the <b>interFoam</b> solver. While the interFoam solver only handles two-phases, the multiphaseInterFoam solver can handle n-number of phases.
+        <br>
+        <br>
+        The <b>dynamicRefineFvMesh</b> utility allows the capability to implement dynamic/adaptive mesh refinement (AMR) based on a field value (with a single upper and lower limit).
+        <br>
+        <br>
+        However, the current capability of the dynamicRefineFvMesh utility is limited to AMR based on one parameter only.
+        <br>
+        <br>
+        For a n-phase simulation, the application of AMR (using dynamicRefineFvMesh) at all interfaces becomes challenging - since it requires multiple upper and lower limits to define all interfaces. <span class="paragraph-highlight">As of OpenFOAM v2412, this capability is not available as a part of the standard solvers.</span>
+    </div>
+    <br>
+    <br>
+    <h2>Contribution</h2>
+    <hr>
+    <div id="simulation-multiInterfaceDyMFoam-contribution" class="description text-justified">
+        In this project, we have extended the capability of the standard multiphaseInterFoam solver to be able to refine all n-phase interfaces.
+        <br>
+        <br>
+        In the <b>multiInterfaceDyMFoam</b>, the interface representation is defined in such a way, the mesh around any interface between n-phases present in the simulation can be refined using the  dynamicRefineFvMesh utility - in contract to only one interface based on the current capability. 
+    </div>
+    <br>
+    <br>
+    <h2>Impact</h2>
+    <hr>
+    <div id="simulation-multiInterfaceDyMFoam-impact" class="description text-justified">
+        This new capability enables the users much finer mesh refinement around multiple phase interfaces. This results in finer interface tracking for multiphase flows while reducing the computational time and resources.
+        <br>
+        <br>
+        An example of multiple interface refinement has been demonstrated in this video.
+        <br>
+        <br>
+        <iframe width="560" height="315" src="https://www.youtube.com/embed/Fz9yUrHFRiU?si=bsuO-9aw6A_gNuWU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+    </div>
+</div>
+
+
+
+

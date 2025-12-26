@@ -1,0 +1,71 @@
+
+<div id="portfolio-description-geometry-2-snappyhexmesh" class="description text-justified">
+    <h2>Description</h2>
+    <hr>
+    <br>
+    In this section, an automated process for (1) converting complex geometries (step/stp file) into STL file, (2) setting up OpenFOAM dictionary (3) creating mesh using the snappyHexMesh utility is presented.
+    <br>
+    <br>
+    Process automation for converting any geometry with its surfaces meshed and generating mesh using snappyHexMesh.
+    <br>
+    <br>
+    The geometry automation process is built based on Coreform Cubit. To use this process, the simulation geometry/domain needs to be created as well as the surface mesh needs to ge created already. Once, prerequisites are done, the scripts included in this repository can be used to create and save the the necessary stl files and geometry information. These geometry files and information is later used for creating the dictionaries needed for the snappyHexMesh process.
+</div>
+    <br>
+    <br>
+    <h2>Motivation</h2>
+    <hr>
+    <div id="automation-geometry-2-snappyhexmesh-motivation" class="description text-justified">
+        The <b>snappyHexMesh</b> OpenFOAM mesh generation utility requires geometry files as STL, OBJ, VTK and OpenFOAM specific formats which are <b>geometries with triangulated surface</b>. The generate any complex using the analytical shape (box, sphere, cone, etc)  definitions becomes challenging as the complexity in geometry increases. Most CAD softwares can export geometry files in industry standard file formats such as STEP, IGS, parasolid, acis (including STL)  as well as their native file format.
+        <br>
+        <br>
+        Generating STL files for complex geometry is not the biggest of the challenges when using the modern day CAD softwares. <span class="paragraph-highlight">The challenge is converting complex CAD models into a set of <b>snappyHexMesh ready</b> STL files</span>. This includes.
+        <ul class="bullet-point">
+            <li>
+                A set of STL files, each representing a single boundary condition.
+            </li>
+            <li>
+                A set of STL files to define different zones of the CFD domain.
+            </li>
+        </ul>
+    </div>
+    <br>
+    <br>
+    <h2>Contribution</h2>
+    <hr>
+    <div id="automation-geometry-2-snappyhexmesh-contribution" class="description text-justified">
+        In this project, an automated (python based) process is demonstrated to generate - 
+        <ul class="bullet-point">
+            <li>
+                The required set of STL files
+            </li>
+            <li>
+                The OpenFOAM case directory for snappyHexMesh
+            </li>
+            <li>
+                The required dictionaries to run the snappyHexMesh utility to generate mesh for CFD analysis.
+            </li>
+            <li>
+                Setup zones applying topology(topoSet utility).
+            </li>
+        </ul>
+        <br>
+        <div class="contact-entry">
+            <a href="https://github.com/noman-mnhasan/Automated_snappyHexMesh_using_stl_geometry" target="_blank"><b>GitHub repository</b> <i class="fa-solid fa-arrow-up-right-from-square anchor-icon"></i></a>
+        </div>
+    </div>
+    <br>
+    <br>
+    <h2>Impact</h2>
+    <hr>
+    <div id="automation-geometry-2-snappyhexmesh-impact" class="description text-justified">
+        This automation process can significantly reduce pro-processing time for OpenFOAM based CFD simulation. 
+        <br>
+        <br>
+    </div>
+</div>
+
+
+
+
+

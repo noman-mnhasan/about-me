@@ -1,0 +1,11 @@
+
+<div id="portfolio-description-default" class="description text-justified">
+    <h2>Description</h2>
+    <hr>
+    <br>
+    This is an default (empty) template.
+</div>
+
+
+
+

@@ -1,0 +1,42 @@
+
+<div id="portfolio-description-mce-thermal" class="description text-justified">
+    <h2>Description</h2>
+    <hr>
+    <br>
+    Thermal analysis of a Portable Point-of-Care Device (microfluidic) for Hemoglobin Separation, and Identification
+</div>
+    <br>
+    <br>
+    <h2>Motivation</h2>
+    <hr>
+    <div id="simulation-mce-thermal-motivation" class="description text-justified">
+        ##
+        <br>
+        <br>
+        ##
+    </div>
+    <br>
+    <br>
+    <h2>Contribution</h2>
+    <hr>
+    <div id="simulation-mce-thermal-contribution" class="description text-justified">
+        ##
+        <br>
+        <br>
+        ## 
+    </div>
+    <br>
+    <br>
+    <h2>Impact</h2>
+    <hr>
+    <div id="simulation-mce-thermal-impact" class="description text-justified">
+        ##
+        <br>
+        <br>
+        ##
+        <br>
+        <br>
+    </div>
+</div>
+
+

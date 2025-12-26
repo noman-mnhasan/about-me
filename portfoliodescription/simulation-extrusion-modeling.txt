@@ -1,0 +1,44 @@
+
+<div id="portfolio-description-extrusion-modeling" class="description text-justified">
+    <h2>Description</h2>
+    <hr>
+    <br>
+    Co-extrusion modeling is a widely-used industrial process where two or more polymers are merged/extruded through a single die to form a single, multi-layered product. Accurate and reliable modeling of this process can deliver faster product development, and reduced waste.
+</div>
+    <br>
+    <br>
+    <h2>Motivation</h2>
+    <hr>
+    <div id="simulation-extrusion-modeling-motivation" class="description text-justified">
+        ##
+        <br>
+        <br>
+        ##
+    </div>
+    <br>
+    <br>
+    <h2>Contribution</h2>
+    <hr>
+    <div id="simulation-extrusion-modeling-contribution" class="description text-justified">
+        ##
+        <br>
+        <br>
+        ## 
+    </div>
+    <br>
+    <br>
+    <h2>Impact</h2>
+    <hr>
+    <div id="simulation-extrusion-modeling-impact" class="description text-justified">
+        ##
+        <br>
+        <br>
+        ##
+        <br>
+        <br>
+    </div>
+</div>
+
+
+
+

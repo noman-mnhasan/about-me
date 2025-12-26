@@ -1,0 +1,47 @@
+
+<div id="portfolio-description-filament-dispensing" class="description text-justified">
+    <h2>Description</h2>
+    <hr>
+    <br>
+    Direct-writing is an additive manufacturing process where polymer resins are extruded and functional geometries/patterns are fabricated to produce specialized products. This is similar to the FDM (fused deposition method) but differs in the process of curing/solidification. For the direct write process, the solidification is achieved by UV ray curing. 
+    <br>
+    <br>
+    Modeling of this additive manufacturing process is helpful to optimize its process parameters to achieve desired dimensional accuracy consistently.
+</div>
+    <br>
+    <br>
+    <h2>Motivation</h2>
+    <hr>
+    <div id="simulation-filament-dispensing-motivation" class="description text-justified">
+        ##
+        <br>
+        <br>
+        ##
+    </div>
+    <br>
+    <br>
+    <h2>Contribution</h2>
+    <hr>
+    <div id="simulation-filament-dispensing-contribution" class="description text-justified">
+        ##
+        <br>
+        <br>
+        ## 
+    </div>
+    <br>
+    <br>
+    <h2>Impact</h2>
+    <hr>
+    <div id="simulation-filament-dispensing-impact" class="description text-justified">
+        ##
+        <br>
+        <br>
+        ##
+        <br>
+        <br>
+    </div>
+</div>
+
+
+
+
