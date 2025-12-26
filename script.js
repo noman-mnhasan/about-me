@@ -76,3 +76,70 @@ jobPositionEntries.forEach(position => {
 
 
 
+//  ****************************************************************  //
+//  PORTFOLIO 
+//  ****************************************************************  //
+
+
+// Get all the anchor elements with the class 'content-link'
+const contentLinks = document.querySelectorAll('.content-link');
+
+// Get the element where the content will be displayed
+const displayArea = document.getElementById('display-area');
+
+
+
+// Function to fetch content from a file and display it
+async function loadHtmlContent(filepath, targetElementId) {
+    try {
+        // Fetch the file from the server
+        const response = await fetch(filepath);
+
+        if (!response.ok) {
+            throw new Error(`HTTP error! status ${response.status}`);
+        }
+        // Read the response as plain text
+        const htmlText = await response.text();
+
+        // Place the retrieved HTML content into a specified element
+        document.getElementById(targetElementId).innerHTML = htmlText;
+    } catch (error) {
+        console.error("Could not load file: ", error);
+        document.getElementById(targetElementId).innerHTML = `<p>Error loading content: ${error.message}</p>`;
+
+    }
+} 
+
+
+
+
+
+// Add a click event listener to each anchor link
+contentLinks.forEach(link => {
+    link.addEventListener('click', function(event) {
+        // Prevent the default anchor link behavior (e.g., jumping to top of page)
+        event.preventDefault();
+
+        // Get the content
+        const newContent = `
+            <h2>Description</h2>
+            <hr>
+            <br>
+            <div id="portfolio-description-${link.textContent}" class="description text-justified">
+                In this section we will describe - ${link.textContent}
+            </div>
+        `;
+
+        const capturedFilepath = document.getElementById(link.id).getAttribute('data-content');
+
+        displayArea.innerHTML = capturedFilepath;
+
+        // Call the "loadHtmlContent" function;
+        loadHtmlContent(capturedFilepath, 'display-area')
+    });
+});
+
+
+
+
+
