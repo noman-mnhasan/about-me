@@ -13,7 +13,7 @@
         Hemoglobin disorders are among the world's most common monogenic diseases. Screening for significant hemoglobin disorders is not currently feasible in many low-income countries with the high disease burden. Lack of early diagnosis leads to preventable high morbidity and mortality in children born with hemoglobin diseases in low-resource settings. In sub-Saharan African countries where SCD is highly prevalent, nearly a quarter of a million babies are born with the disease each year. An estimated 50-90% of these babies die before age 5 because they are not diagnosed or treated. 
         <br>
         <br>
-        <img src="./portfoliodescription/images/product-dev-hemechip-gdp-ppp.png" alt="Image: Global prevalence of SCD vs GDP and PPP" >
+        <img src="./portfoliodescription/images/product-dev-hemechip-gdp-ppp.png" alt="Image: Global prevalence of SCD vs GDP and PPP"  width="100%">
         <br>
         <br>
         The WHO estimates that more than 70% of SCD related deaths are preventable with simple, cost-efficient interventions, such as early point-of-care (POC) screening followed by treatment. 
@@ -58,7 +58,7 @@
         <img src="./portfoliodescription/images/product-dev-hemechip-global-testing.png" alt="Image: HemeChip, global testing" width="100%">
         <br>
         <br>
-        HemeChip (currently known as Gazelle) is a product of <b>Hemex Health, Inc</b> <a href="https://www.hemexhealth.com/" target="_blank" ><i class="fa-solid fa-arrow-up-right-from-square anchor-icon"></i></a>.
+        HemeChip (Gazelle) is a product of <b>Hemex Health, Inc</b> <a href="https://www.hemexhealth.com/" target="_blank" ><i class="fa-solid fa-arrow-up-right-from-square anchor-icon"></i></a>.
     </div>
 </div>
 
