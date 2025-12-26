@@ -1,9 +1,9 @@
 
-<div id="portfolio-description-default" class="description">
+<div id="portfolio-description-default" class="description text-justified">
     <h2>Description</h2>
     <hr>
     <br>
-    Reading from the "default" file.
+    This is an default (empty) template.
 </div>
 
 

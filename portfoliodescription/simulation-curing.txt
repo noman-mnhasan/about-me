@@ -1,10 +1,44 @@
 
-<div id="portfolio-description-multiInterfaceDyMFoam" class="description">
+<div id="portfolio-description-curing" class="description text-justified">
     <h2>Description</h2>
     <hr>
     <br>
     Reading from the "simulation-curing" file.
 </div>
+    <br>
+    <br>
+    <h2>Motivation</h2>
+    <hr>
+    <div id="simulation-curing-motivation" class="description text-justified">
+        ##
+        <br>
+        <br>
+        ##
+    </div>
+    <br>
+    <br>
+    <h2>Contribution</h2>
+    <hr>
+    <div id="simulation-curing-contribution" class="description text-justified">
+        ##
+        <br>
+        <br>
+        ## 
+    </div>
+    <br>
+    <br>
+    <h2>Impact</h2>
+    <hr>
+    <div id="simulation-curing-impact" class="description text-justified">
+        ##
+        <br>
+        <br>
+        ##
+        <br>
+        <br>
+    </div>
+</div>
+
 
 
 

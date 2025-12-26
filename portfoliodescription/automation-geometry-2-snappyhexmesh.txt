@@ -1,0 +1,45 @@
+
+<div id="portfolio-description-geometry-2-snappyhexmesh" class="description text-justified">
+    <h2>Description</h2>
+    <hr>
+    <br>
+    In this section, an automated process for (1) converting complex geometries (step/stp file) into STL file, (2) setting up OpenFOAM dictionary (3) creating mesh using the snappyHexMesh utility is presented.
+</div>
+    <br>
+    <br>
+    <h2>Motivation</h2>
+    <hr>
+    <div id="automation-geometry-2-snappyhexmesh-motivation" class="description text-justified">
+        ##
+        <br>
+        <br>
+        ##
+    </div>
+    <br>
+    <br>
+    <h2>Contribution</h2>
+    <hr>
+    <div id="automation-geometry-2-snappyhexmesh-contribution" class="description text-justified">
+        ##
+        <br>
+        <br>
+        ## 
+    </div>
+    <br>
+    <br>
+    <h2>Impact</h2>
+    <hr>
+    <div id="automation-geometry-2-snappyhexmesh-impact" class="description text-justified">
+        ##
+        <br>
+        <br>
+        ##
+        <br>
+        <br>
+    </div>
+</div>
+
+
+
+
+

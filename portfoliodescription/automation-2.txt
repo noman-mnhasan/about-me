@@ -1,10 +1,44 @@
 
-<div id="portfolio-description-multiInterfaceDyMFoam" class="description">
+<div id="portfolio-description-automation-2" class="description text-justified">
     <h2>Description</h2>
     <hr>
     <br>
     Reading from the "automation-2" file.
 </div>
+    <br>
+    <br>
+    <h2>Motivation</h2>
+    <hr>
+    <div id="automation-2-motivation" class="description text-justified">
+        ##
+        <br>
+        <br>
+        ##
+    </div>
+    <br>
+    <br>
+    <h2>Contribution</h2>
+    <hr>
+    <div id="automation-2-contribution" class="description text-justified">
+        ##
+        <br>
+        <br>
+        ## 
+    </div>
+    <br>
+    <br>
+    <h2>Impact</h2>
+    <hr>
+    <div id="automation-2-impact" class="description text-justified">
+        ##
+        <br>
+        <br>
+        ##
+        <br>
+        <br>
+    </div>
+</div>
+
 
 
 

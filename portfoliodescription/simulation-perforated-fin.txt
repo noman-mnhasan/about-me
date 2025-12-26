@@ -1,9 +1,45 @@
 
-<div id="portfolio-description-multiInterfaceDyMFoam" class="description">
+<div id="portfolio-description-perforated-fin" class="description text-justified">
     <h2>Description</h2>
     <hr>
     <br>
-    Reading from the "simulation-perforated-fin" file.
+    Perforated fins are used extensively in numerous applications requiring high thermal efficiency, improved airflow for efficient cooling, and reduced material weight. The perforations increase turbulence resulting in (1) disruption of boundary layers, and (2) reduce pressure drop. The culmination of these effects results in a overall increased thermal performance in contrast to solid fins.
+    <br>
+    <br>
+    Thermal simulation/analysis of perforated fins are crucial to reduce development cost, and faster design optimization.
+</div>
+    <br>
+    <br>
+    <h2>Motivation</h2>
+    <hr>
+    <div id="simulation-perforated-fin-motivation" class="description text-justified">
+        ##
+        <br>
+        <br>
+        ##
+    </div>
+    <br>
+    <br>
+    <h2>Contribution</h2>
+    <hr>
+    <div id="simulation-perforated-fin-contribution" class="description text-justified">
+        ##
+        <br>
+        <br>
+        ## 
+    </div>
+    <br>
+    <br>
+    <h2>Impact</h2>
+    <hr>
+    <div id="simulation-perforated-fin-impact" class="description text-justified">
+        ##
+        <br>
+        <br>
+        ##
+        <br>
+        <br>
+    </div>
 </div>
 
 
