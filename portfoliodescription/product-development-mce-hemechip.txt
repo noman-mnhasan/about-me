@@ -10,32 +10,55 @@
     <h2>Motivation</h2>
     <hr>
     <div id="product-development-mce-hemechip-motivation" class="description text-justified">
-        ##
+        Hemoglobin disorders are among the world's most common monogenic diseases. Screening for significant hemoglobin disorders is not currently feasible in many low-income countries with the high disease burden. Lack of early diagnosis leads to preventable high morbidity and mortality in children born with hemoglobin diseases in low-resource settings. In sub-Saharan African countries where SCD is highly prevalent, nearly a quarter of a million babies are born with the disease each year. An estimated 50-90% of these babies die before age 5 because they are not diagnosed or treated. 
         <br>
         <br>
-        ##
+        <img src="./images/product-dev-hemechip-gdp-ppp.png" alt="Image: Global prevalence of SCD vs GDP and PPP" >
+        <br>
+        <br>
+        The WHO estimates that more than 70% of SCD related deaths are preventable with simple, cost-efficient interventions, such as early point-of-care (POC) screening followed by treatment. 
     </div>
     <br>
     <br>
     <h2>Contribution</h2>
     <hr>
     <div id="product-development-mce-hemechip-contribution" class="description text-justified">
-        ##
+        <h3 style="font-size:18px; font-weight: 400;">Technology Development</h3>
+        <br>
+        HemeChip is the first miniaturized, paper-based, microchip electrophoresis platform, for identifying the most common hemoglobin variants easily and affordably at the point-of-care in low-resource settings.
         <br>
         <br>
-        ## 
+        The proof-of-concept prototype of the test cartridge and the testing device has been developed in collaboration with external vendors (Thogus & Andrews Cooper)
+        <br>
+        <br>
+        <img src="./portfoliodescription/images/product-dev-hemechip-cartridge.png" alt="Image: HemeChip Design" width="100%">
+        <br>
+        <br>
+        HemeChip system guides the user step-by-step through the test procedure with animated on-screen instructions. 
+        <br>
+        <br>
+        Hemoglobin identification and quantification is automatically performed, and hemoglobin types and percentages are displayed in an easily understandable, objective way.
+        <br>
+        <br>
+        <img src="./portfoliodescription/images/product-dev-hemechip-testing-platform.png" alt="Image: HemeChip testing platform and analysis" width="100%">
+        <br>
+        <br>HemeChip is a versatile, mass-producible microchip electrophoresis platform technology that addresses a major unmet need for decentralized hemoglobin analysis.
     </div>
     <br>
     <br>
     <h2>Impact</h2>
     <hr>
     <div id="product-development-mce-hemechip-impact" class="description text-justified">
-        ##
+        <span class="paragraph-highlight">HemeChip works with a drop of blood</span>. The testing, analysis, and on-site result generation process is about 6x faster than the laboratory gold standard testing.
         <br>
         <br>
-        ##
+        The proof-of-concept prototype has been testing in different countries on the world. This enabled collection of widely varied blood sample. The results showed that HemeChip is highly accurate for detecting and identifying a number of hemoglobin variants. 
         <br>
         <br>
+        <img src="./portfoliodescription/images/product-dev-hemechip-global-testing.png" alt="Image: HemeChip, global testing" width="100%">
+        <br>
+        <br>
+        HemeChip (currently known as Gazelle) is a product of <b>Hemex Health, Inc</b> <a href="https://www.hemexhealth.com/" target="_blank" ><i class="fa-solid fa-arrow-up-right-from-square anchor-icon"></i></a>.
     </div>
 </div>
 
