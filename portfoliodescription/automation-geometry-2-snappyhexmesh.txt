@@ -3,7 +3,7 @@
     <h2>Description</h2>
     <hr>
     <br>
-    In this section, an automated process for (1) converting complex geometries (step/stp file) into STL file, (2) setting up OpenFOAM dictionary (3) creating mesh using the snappyHexMesh utility is presented.
+    In this section, an automated process for (1) converting complex geometries (step/stp file) into STL file, (2) setting up OpenFOAM dictionary (3) creating mesh using the snappyHexMesh utility is presented. &nbsp; <a href="https://github.com/noman-mnhasan/OpenFOAM_multiInterfaceDyMFoam" target="_blank" ><i class="fa-solid fa-arrow-up-right-from-square anchor-icon"></i></a>
     <br>
     <br>
     Process automation for converting any geometry with its surfaces meshed and generating mesh using snappyHexMesh.

@@ -3,7 +3,7 @@
     <h2>Description</h2>
     <hr>
     <br>
-    HemeChip is a portable point-of-care diagnosis device for hemoglobin separation, detection and identification technology. This is a low-cost and rapid (up to 8x faster) test compared to its laboratory counterpart.
+    HemeChip is a portable point-of-care diagnosis device for hemoglobin separation, detection and identification technology. This is a low-cost and rapid (up to 8x faster) test compared to its laboratory counterpart. &nbsp; <a href="https://pubs.rsc.org/en/content/articlelanding/2020/an/c9an02250c" target="_blank" ><i class="fa-solid fa-arrow-up-right-from-square anchor-icon"></i></a>
 </div>
     <br>
     <br>
