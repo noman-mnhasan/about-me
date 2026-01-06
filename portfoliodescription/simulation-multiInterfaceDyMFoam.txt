@@ -3,7 +3,7 @@
     <h2>Description</h2>
     <hr>
     <div id="simulation-multiInterfaceDyMFoam-about" class="description text-justified">
-        <b>multiInterfaceDyMFoam</b> : An OpenFOAM solver for dynamic/adaptive mesh refinement (AMR) at the interface for N-phase simulation.
+        <b>multiInterfaceDyMFoam</b> : An OpenFOAM solver for dynamic/adaptive mesh refinement (AMR) at the interface for N-phase simulation. &nbsp; <a href="https://github.com/noman-mnhasan/OpenFOAM_multiInterfaceDyMFoam" target="_blank" ><i class="fa-solid fa-arrow-up-right-from-square anchor-icon"></i></a>
         <br>
         <br>
         A custom OpenFOAM solver, based on multiphaseInterFoam. This solver enables tracking and implementation of automated/dynamic mesh refinement (AMR) of all interfaces for a n-phase simulation with dynamicRefineFvMesh (./constant/dynamicMeshDict).
