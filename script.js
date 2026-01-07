@@ -11,7 +11,7 @@ const headerHtmlCode = `
     <!-- resume header with your name and title -->
     <h1>Noman Hasan</h1>
     <hr>
-    <h2 style="font-weight: bold;">Senior Staff Engineer </h2>
+    <!-- <h2 style="font-weight: bold;">Senior Staff Engineer </h2> -->
     <h2 style="font-weight: 450; color: #536464ff;">Fluid/Thermal Simulation <b>||</b> High Throughput Simulation with Automation <br> Process/Performance Modeling <b>||</b> Data Analysis & Modeling</h2>
     <h3 style="font-weight: bold; font-size: 15px; color: #282929;">Building virtual capability for an efficient future</h3>
     <hr>
